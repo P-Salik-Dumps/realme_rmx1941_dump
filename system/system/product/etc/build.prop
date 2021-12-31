@@ -1,0 +1,12 @@
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.system.fusion.version=3.0-Aqua
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
