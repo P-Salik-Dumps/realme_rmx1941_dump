@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<PlatformWhitelist>
+	  <App1>com.tencent.mm</App1>
+	  <App2>com.tencent.mobileqq</App2>
+	  <App3>com.coloros.alarmclock</App3>
+	  <App4>com.coloros.backuprestore</App4>
+	  <App5>com.coloros.backuprestore.remoteservice</App5>
+	  <App6>com.coloros.screenshot</App6>
+	  <App7>com.android.keychain</App7>
+	  <App8>com.coloros.safesdkproxy</App8>
+	  <App9>com.cleanmaster.sdk</App9>
+	  <App10>com.coloros.oshare</App10>
+	  <App11>com.coloros.filemanager</App11>
+	  <App12>com.coloros.gallery3d</App12>
+	  <App13>com.coloros.safecenter</App13>
+	  <App14>com.oppo.customize.service</App14>
+	  <App15>com.coloros.blacklist</App15>
+	  <App16>com.coloros.healthcheck</App16>
+	  <App17>com.nearme.sync</App17>
+	  <App18>com.nearme.ocloud</App18>
+	  <App19>com.oppo.ota</App19>
+	  <App20>com.coloros.cloud</App20>
+	  <App21>com.coloros.oppoguardelf</App21>
+	  <App22>com.coloros.screenrecorder</App22>
+	  <App23>com.android.cellbroadcastreceiver</App23>
+	  <App24>com.coloros.smartdrive</App24>
+	  <App25>com.oppo.videocallfloat</App25>
+	  <App26>com.coloros.wirelesssettings</App26>
+	  <App27>com.coloros.oppopods</App27>
+	  <App28>com.coloros.translate</App28>
+	  <App29>com.coloros.colorfilestand</App29>
+	  <App30>com.coloros.personalassistant</App30>
+	  <App31>com.android.incallui</App31>
+      <App32>com.coloros.bootreg</App32>
+      <App33>oppo.autotest.emmcpressuretest</App33>
+	  <!--<App33>****</App33>-->
+	</PlatformWhitelist>
+	<CpuThreshold>85</CpuThreshold> <!-- 20~100 -->
+	<CpuTarget>70</CpuTarget> <!-- 0~100 -->
+	<MemoryTrigger>false</MemoryTrigger>
+	<ForceStop>false</ForceStop>
+</configuration>
