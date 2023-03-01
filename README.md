@@ -1,0 +1,19 @@
+## lineage_RMX1941-userdebug 13 TQ1A.230205.002 eng.cirrus.20230301.113133 test-keys
+- Manufacturer: realme
+- Platform: mt6765
+- Codename: RMX1941
+- Brand: realme
+- Flavor: lineage_RMX1941-userdebug
+- Release Version: 13
+- Kernel Version: 4.9.190
+- Id: TQ1A.230205.002
+- Incremental: eng.cirrus.20230301.113133
+- Tags: test-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: 480
+- Fingerprint: realme/lineage_RMX1941/RMX1941:13/TQ1A.230205.002/cirrus03011128:userdebug/test-keys
+- OTA version: 
+- Branch: lineage_RMX1941-userdebug-13-TQ1A.230205.002-eng.cirrus.20230301.113133-test-keys
+- Repo: realme_rmx1941_dump
